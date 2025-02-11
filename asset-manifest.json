@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c9c31c9b.css",
+    "main.js": "/static/js/main.23a7db13.js",
+    "static/js/453.c510d7d0.chunk.js": "/static/js/453.c510d7d0.chunk.js",
+    "static/media/img6.jpg": "/static/media/img6.00b0f8fe851f77579144.jpg",
+    "static/media/img4.jpg": "/static/media/img4.58ff9aabe3e5201e0a71.jpg",
+    "static/media/img2.jpg": "/static/media/img2.85c77b6b2bf169bd96dd.jpg",
+    "static/media/img14.jpg": "/static/media/img14.be069aeb05bff5a8016d.jpg",
+    "static/media/img8.jpg": "/static/media/img8.d445b00f8032ae98b57e.jpg",
+    "static/media/img9.jpg": "/static/media/img9.a23af749293596ebf8c6.jpg",
+    "static/media/img11.jpg": "/static/media/img11.774ba1c552c43327487e.jpg",
+    "static/media/img10.jpg": "/static/media/img10.bd046a566d356ab9f6cf.jpg",
+    "static/media/img12.jpg": "/static/media/img12.68cfef48afc8385ee940.jpg",
+    "static/media/img7.jpg": "/static/media/img7.32ea15947db06c14e3a2.jpg",
+    "static/media/img13.jpg": "/static/media/img13.240b7c5f1da665f1b3ba.jpg",
+    "static/media/2024-09-22 (1).png": "/static/media/2024-09-22 (1).06a9ef4f5a3012343f57.png",
+    "static/media/img15.jpg": "/static/media/img15.95acd8b60e42aec5fb5c.jpg",
+    "static/media/img5.jpg": "/static/media/img5.8a7032bce6de790adaef.jpg",
+    "static/media/img3.jpg": "/static/media/img3.6768f84596e19820ee4d.jpg",
+    "static/media/bharat_sarkar_logo-removebg-preview.png": "/static/media/bharat_sarkar_logo-removebg-preview.75de2242c4447ae46076.png",
+    "static/media/img1.jpg": "/static/media/img1.3c1f4fda26efee113b5f.jpg",
+    "static/media/img16.jpg": "/static/media/img16.542e9623b13203fba9c0.jpg",
+    "static/media/jss_navlogo-removebg-preview.png": "/static/media/jss_navlogo-removebg-preview.d1d4a9a1a23f70533383.png",
+    "index.html": "/index.html",
+    "main.c9c31c9b.css.map": "/static/css/main.c9c31c9b.css.map",
+    "main.23a7db13.js.map": "/static/js/main.23a7db13.js.map",
+    "453.c510d7d0.chunk.js.map": "/static/js/453.c510d7d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9c31c9b.css",
+    "static/js/main.23a7db13.js"
+  ]
+}
